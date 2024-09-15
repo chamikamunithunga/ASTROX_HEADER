@@ -13,4 +13,25 @@ ASTROX_HEADER is a project featuring a dynamic, animated header for websites usi
 
 ![Screenshot 2024-09-15 at 3 44 43 PM](https://github.com/user-attachments/assets/b436b4fd-1b7c-4313-89ee-e51b6fcc74df)
 
+Features
+-----------
+Header Animations: Smooth and eye-catching animations for page headers.
+
+Premium Images: Includes high-quality images that enhance the visual experience.
+
+Interactive Elements: Users can interact with the header through scrolling, hovering, or other gestures.
+
+Customizable: Easily modify animations, images, and other styles to suit your needs.
+
+Fully Responsive: Optimized for mobile, tablet, and desktop devices.
+
+Lightweight: Efficient use of resources to ensure fast loading times.
+
+Technologies Used
+------------------
+HTML5: The structure of the pages.
+
+CSS3: For styling and creating animations.
+
+JavaScript (ES6): For adding interactivity and managing animations.
 
